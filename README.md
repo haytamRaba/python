@@ -28,7 +28,11 @@ python-learning/
 ## 💡 Resources
 
 - [Python Official Documentation](https://docs.python.org/3/)
+<<<<<<< HEAD
 - [Python for Everybody Specialization-coursera](https://www.coursera.org/specializations/python)
+=======
+- [Python for Everybody Specialization - coursera]( https://www.coursera.org/specializations/python)
+>>>>>>> 0771e472136c5a7b4608f32e3d7273de9a6fcfd4
 - [Python Full course - bro code](https://www.youtube.com/watch?v=ix9cRaBkVe0&t=1s&ab_channel=BroCode)
 - [w3schools](https://www.w3schools.com/python)
 
