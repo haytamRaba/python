@@ -11,9 +11,9 @@ python-learning/
 ├── algorithms/           # Implementation of common algorithms
 ├── oop/                  # Object-oriented programming exercises
 ├── projects/             # Larger practical applications
-│   ├── project1/
-│   ├── project2/
-│   └── ...
+    ├── project1/
+    ├── project2/
+    └── ...
 
 ```
 
